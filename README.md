@@ -42,3 +42,4 @@ Plots for model accuracy and loss are following:
 Classifying the images:
 ![Uploading image.png…]()
 
+
