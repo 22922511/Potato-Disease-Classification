@@ -10,3 +10,9 @@
 
 2. Install Python packages
   
+## Training The Model:
+1. Download the data from [kaggle](https://www.kaggle.com/datasets/arjuntejaswi/plant-village).
+2. Only keep folders related to Potatoes.
+3. Open Google Colab in Browser.
+4. Mount Your Google Drive.
+5. 
