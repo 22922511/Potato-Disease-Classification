@@ -22,11 +22,16 @@
 ## Results:
 Results after training 2152 images Potato Leaves.
 
-number of epochs = 10.
+number of epochs = 10
+
 training data / validation data split = 80/20
+
 MODEL:
+
 CONV 3x3 filter layers with batch norm - 32 x 64 x 96 x 96 x 64 
+
 Dense layers with drop out of 0.2 and 0.3 - 256 x 128 x 2
+
 loss: 0.1685
 accuracy: 0.9410
 val_loss: 0.2451
