@@ -40,6 +40,7 @@ Plots for model accuracy and loss are following:
 ![image](https://github.com/user-attachments/assets/3915b225-bc1f-461c-85c9-f7e593823852)
 
 Classifying the images:
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/45ee4e3a-3dac-4f7f-a79f-fba9ea364c22)
+
 
 
