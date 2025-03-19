@@ -38,3 +38,7 @@ Plots for model accuracy and loss are following:
 **Y axis -- Epoch**
 
 ![image](https://github.com/user-attachments/assets/3915b225-bc1f-461c-85c9-f7e593823852)
+
+Classifying the images:
+![Uploading image.png…]()
+
