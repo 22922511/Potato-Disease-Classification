@@ -31,3 +31,7 @@ Results after training 2152 images Potato Leaves.
   - val_loss: 0.2451
   - val_accuracy: 0.8958
 * The model was tested on the images. The performance of the model was very good and was able to predict the Disease with 94% accuracy.
+
+Plots for model accuracy and loss are following:
+
+![image](https://github.com/user-attachments/assets/3915b225-bc1f-461c-85c9-f7e593823852)
