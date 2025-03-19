@@ -28,7 +28,7 @@ Results after training 2152 images Potato Leaves.
   - CONV 3x3 filter layers with batch norm - 32 x 64 x 96 x 96 x 64
   - Dense layers with drop out of 0.2 and 0.3 - 256 x 128 x 2
 
-loss: 0.1685
-accuracy: 0.9410
-val_loss: 0.2451
-val_accuracy: 0.8958
+  - loss: 0.1685
+  - accuracy: 0.9410
+  - val_loss: 0.2451
+  - val_accuracy: 0.8958
