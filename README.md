@@ -33,5 +33,7 @@ Results after training 2152 images Potato Leaves.
 * The model was tested on the images. The performance of the model was very good and was able to predict the Disease with 94% accuracy.
 
 Plots for model accuracy and loss are following:
+**X axis -- Accuracy**
+**Y axis -- Epoch**
 
 ![image](https://github.com/user-attachments/assets/3915b225-bc1f-461c-85c9-f7e593823852)
