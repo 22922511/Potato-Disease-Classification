@@ -34,7 +34,7 @@ Results after training 2152 images Potato Leaves.
 
 Plots for model accuracy and loss are following:
 
-**X axis -- Accuracy**
+**X axis -- Accuracy**<br>
 **Y axis -- Epoch**
 
 ![image](https://github.com/user-attachments/assets/3915b225-bc1f-461c-85c9-f7e593823852)
