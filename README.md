@@ -19,6 +19,9 @@
 6. Run all the Cells one by one.
 7. Save The Generated Model.
 
+## Model Architecture
+![Uploading model.png…]()
+
 ## Results:
 Results after training 2152 images Potato Leaves.
 
