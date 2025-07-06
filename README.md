@@ -19,10 +19,9 @@
 6. Run all the Cells one by one.
 7. Save The Generated Model.
 
-## Model Architecture
+## [Model Architecture](https://drive.google.com/file/d/1bAXLSkGZ6AMyYU8vqgl_GL7bh2bhYh84/view?usp=sharing)
 
-![model](https://github.com/user-attachments/assets/1d76ca8b-b864-4408-9982-dc898e16d15f)
-
+ 
 ## Results:
 Results after training 2152 images Potato Leaves.
 
