@@ -20,7 +20,8 @@
 7. Save The Generated Model.
 
 ## Model Architecture
-![Uploading model.png…]()
+
+![model](https://github.com/user-attachments/assets/1d76ca8b-b864-4408-9982-dc898e16d15f)
 
 ## Results:
 Results after training 2152 images Potato Leaves.
