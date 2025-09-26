@@ -45,7 +45,9 @@ Results after training 2152 images Potato Leaves.
 ## Classifying the images:
 
 ![image](https://github.com/user-attachments/assets/fbe58a6f-2cbd-457f-9b03-f79a7d2a8b50)<br>
+
 ![image](https://github.com/user-attachments/assets/de150ea8-2585-462e-bccb-cf4fab6e97f8)<br>
+
 ![image](https://github.com/user-attachments/assets/51f385c8-a994-45ff-893d-21e910b62d87)<br>
 ![image](https://github.com/user-attachments/assets/de3dbeb4-b511-4e13-9a0e-03f271c948bb)<br>
 ![image](https://github.com/user-attachments/assets/f54647ec-e3bb-463a-b047-6da76e9797e3)<br>
